@@ -1,0 +1,5 @@
+INFO    2021-10-11 13:18:08,237 [http-nio-8080-exec-12] minhtq.controller.LoginServlet  - Login Admin success
+INFO    2021-10-11 13:18:17,071 [http-nio-8080-exec-6] minhtq.controller.SearchServlet  - Admin search
+INFO    2021-10-11 13:18:20,118 [http-nio-8080-exec-14] minhtq.controller.SearchServlet  - Admin search
+INFO    2021-10-11 13:18:24,065 [http-nio-8080-exec-15] minhtq.controller.SearchServlet  - Admin search
+INFO    2021-10-11 13:18:42,276 [http-nio-8080-exec-17] minhtq.controller.LoginServlet  - Login success
